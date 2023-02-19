@@ -22,3 +22,6 @@
 [submodule "fzf"]
 	path = fzf
 	url = https://github.com/lildude/fzf-prezto
+[submodule "rust/external"]
+	path = rust/external
+	url = https://github.com/wintermi/zsh-rust.git
